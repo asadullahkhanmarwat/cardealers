@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cardealers/static/css/main.f3517740.css",
-    "main.js": "/cardealers/static/js/main.5d8bb6c5.js",
+    "main.js": "/cardealers/static/js/main.bfd677e0.js",
     "static/js/453.e9e7ec89.chunk.js": "/cardealers/static/js/453.e9e7ec89.chunk.js",
     "static/media/car of eb.jpg": "/cardealers/static/media/car of eb.64804a26c07686746ec0.jpg",
     "static/media/Mercedes C300.png": "/cardealers/static/media/Mercedes C300.ec0ac104e83d05a129b4.png",
@@ -14,11 +14,11 @@
     "static/media/bootstrap-icons.woff2?": "/cardealers/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/cardealers/index.html",
     "main.f3517740.css.map": "/cardealers/static/css/main.f3517740.css.map",
-    "main.5d8bb6c5.js.map": "/cardealers/static/js/main.5d8bb6c5.js.map",
+    "main.bfd677e0.js.map": "/cardealers/static/js/main.bfd677e0.js.map",
     "453.e9e7ec89.chunk.js.map": "/cardealers/static/js/453.e9e7ec89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3517740.css",
-    "static/js/main.5d8bb6c5.js"
+    "static/js/main.bfd677e0.js"
   ]
 }
