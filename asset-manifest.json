@@ -1,24 +1,17 @@
 {
   "files": {
-    "main.css": "/cardealers/static/css/main.f3517740.css",
-    "main.js": "/cardealers/static/js/main.bfd677e0.js",
-    "static/js/453.e9e7ec89.chunk.js": "/cardealers/static/js/453.e9e7ec89.chunk.js",
-    "static/media/car of eb.jpg": "/cardealers/static/media/car of eb.64804a26c07686746ec0.jpg",
-    "static/media/Mercedes C300.png": "/cardealers/static/media/Mercedes C300.ec0ac104e83d05a129b4.png",
-    "static/media/mgIM5car3.png": "/cardealers/static/media/mgIM5car3.0163770f00bcffe7ac8b.png",
-    "static/media/mgIM5car.png": "/cardealers/static/media/mgIM5car.c32b7c880888f178a948.png",
-    "static/media/2023 Audi Q5 Premium.png": "/cardealers/static/media/2023 Audi Q5 Premium.9f94314a28e1213dc481.png",
-    "static/media/4th.png": "/cardealers/static/media/4th.ab0db05a50f38d264763.png",
-    "static/media/White Porsche-style Electric Sedan.png": "/cardealers/static/media/White Porsche-style Electric Sedan.346ce4521d6e97f22ebc.png",
-    "static/media/bootstrap-icons.woff?": "/cardealers/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
-    "static/media/bootstrap-icons.woff2?": "/cardealers/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
-    "index.html": "/cardealers/index.html",
-    "main.f3517740.css.map": "/cardealers/static/css/main.f3517740.css.map",
-    "main.bfd677e0.js.map": "/cardealers/static/js/main.bfd677e0.js.map",
-    "453.e9e7ec89.chunk.js.map": "/cardealers/static/js/453.e9e7ec89.chunk.js.map"
+    "main.css": "/company-portfolio/static/css/main.2d17caf8.css",
+    "main.js": "/company-portfolio/static/js/main.10395ee1.js",
+    "static/js/453.e9e7ec89.chunk.js": "/company-portfolio/static/js/453.e9e7ec89.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/company-portfolio/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/company-portfolio/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/company-portfolio/index.html",
+    "main.2d17caf8.css.map": "/company-portfolio/static/css/main.2d17caf8.css.map",
+    "main.10395ee1.js.map": "/company-portfolio/static/js/main.10395ee1.js.map",
+    "453.e9e7ec89.chunk.js.map": "/company-portfolio/static/js/453.e9e7ec89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3517740.css",
-    "static/js/main.bfd677e0.js"
+    "static/css/main.2d17caf8.css",
+    "static/js/main.10395ee1.js"
   ]
 }
