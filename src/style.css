@@ -1,0 +1,58 @@
+html body{
+    background-color: #8e44ad;
+}
+
+.box{
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+ margin: 10px 10px;
+ padding: 10px;   
+}
+
+.image
+{
+    height: 100px;
+    width: 100px;
+    
+}
+
+img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: top 5px;
+    border-width: 3px solid #8e44ad ; 
+}
+
+.rate{
+    border-color: #8e44ad ;
+
+}
+
+.rate .f{
+    color: #8e44ad;
+}
+
+.name{
+    color: #8e44ad;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#readmore{
+    color: #8e44ad;
+    border-color: #8e44ad;
+    background-color: white;
+    border-radius: 5%;
+    padding: 5px;
+    margin: 5px auto 5px;
+
+}
+
+#subscribe{
+    color: white;
+    background-color: #8e44ad;
+    border-radius: 5%;
+    padding: 5px;
+    margin: 5px auto 5px;
+}
